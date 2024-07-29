@@ -1,0 +1,9 @@
+.banner{
+    background-image: url('./assets/flowers.jpg');
+    height: 60vh;
+    background-size: cover;
+    background-position: center;
+    padding: 100px 0px;
+    box-sizing: border-box;
+    text-align: center;
+}
